@@ -1,0 +1,15 @@
+#root{
+    height: 100vh;
+}
+
+body{
+    background-color: aliceblue;
+    overflow: hidden;
+}
+
+.posts-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
